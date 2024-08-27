@@ -5,19 +5,18 @@
 <h1 align="center">Hello 👋 , I'm Steven Garcia-Alamilla</h1>
 
 <h3 align="center"> 📚 I'm currently pursuing a Bachelor’s degree in Computer Science at Middle Tennessee State University, expecting to graduate in May 2025.</h3>
-<p align="center"> 💡 I’m currently seeking a software engineering internship for Summer 2024.</p>
+<p align="center"> 💡 I’m currently seeking a software engineering internship for Summer 2025.</p>
 
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/SteGarAla/SteGarAla/assets/89400338/5e1e91ed-6f08-41e2-99c8-dbd32c218dc3">
+
 <br><br>
 
 
-- 🌱 I’m currently learning **Computer Networking**
+- 🌱 I’m currently learning **System Design**
 
 - 📫 How to reach me **StevenGarcia.CS@gmail.com**
 
-- 🎥  Movie recommendation: **Nobody Knows**
 
 <br>
 <h3 align="left">Let's Connect!</h3>
