@@ -4,8 +4,8 @@
 
 <h1 align="center">Hello 👋 , I'm Steven Garcia-Alamilla</h1>
 
-<h3 align="center"> 📚 I'm currently pursuing a Bachelor’s degree in Computer Science at Middle Tennessee State University, expecting to graduate in May 2025.</h3>
-<p align="center"> 💡 I’m currently seeking a software engineering internship for Summer 2025.</p>
+<h3 align="center"> 📚 I recently graduated from Middle Tennessee State University with a B.S. in Computer Science.</h3>
+<p align="center"> 💡 Actively seeking Software Engineering opportunities.</p>
 
 
 
@@ -13,7 +13,7 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **StevenGarcia.CS@gmail.com**
 
@@ -42,7 +42,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
   </a>
 </p>
 
