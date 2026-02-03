@@ -1,7 +1,3 @@
-![MinecraftFlowers](https://www.commonapp.org/static/d46c74b83fc1bca9d7579f73bc6deb19/middle-tennessee-state-university_748.jpg)
-
-
-
 <h1 align="center">Hello 👋 , I'm Steven Garcia-Alamilla</h1>
 
 <h3 align="center"> 📚 I recently graduated from Middle Tennessee State University with a B.S. in Computer Science.</h3>
@@ -13,7 +9,7 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **telemetry**
 
 - 📫 How to reach me **StevenGarcia.CS@gmail.com**
 
